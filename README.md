@@ -25,10 +25,3 @@ Before running the program, ensure you have the following:
 - Remote system credentials (IP and password).
 - Proper SSH configuration for connecting to remote systems.
   
-## Usage
-
-1. Clone this repository or copy the script into a Python file.
-2. Run the program in the terminal using the command:
-
-   ```bash
-   python3 <your_script_name>.py
